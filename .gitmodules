@@ -1,0 +1,4 @@
+[submodule "bluelinemx/meli_oerp"]
+	path = bluelinemx/meli_oerp
+	url = git@github.com:bluelinemx/meli_oerp.git
+	branch = odoo11mx
